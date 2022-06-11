@@ -1,0 +1,8 @@
+.profile{
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+    display: inline;
+    padding: 100px;
+    margin: 15px;
+}
